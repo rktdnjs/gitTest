@@ -34,3 +34,4 @@ git commit을 통해 기록 저장소에 옮기는 식이다.(repository)
 : git log --all --oneline
 
 < git add, commit, diff 쉽게 하는 법(VSCode) >
+ ㅇㄹㄴ
